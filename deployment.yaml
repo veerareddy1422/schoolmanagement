@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: ecomm
-          image: veerareddy1422/ecomm
+          image: veerareddy1422/school
           ports:
             - containerPort: 80
